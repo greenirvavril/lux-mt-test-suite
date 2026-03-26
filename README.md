@@ -1,4 +1,5 @@
-Info and paper TBA
+Paper:
+Rehlinger, N. (2026, March). A Fine-Grained Linguistic Evaluation of Low-Resource Luxembourgish–English MT. In Proceedings for the Ninth Workshop on Technologies for Machine Translation of Low Resource Languages (LoResMT 2026) (pp. 138-150).
 
 ## License
 
