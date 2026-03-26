@@ -1,4 +1,4 @@
-This is the repo for [A Fine-Grained Linguistic Evaluation of Low-Resource Luxembourgish–English MT](https://aclanthology.org/2026.loresmt-1.12/). The paper introduces the Lux-MT-Test-Suite, a test suite that semi-automatically evaluates Luxembourgish (lb) to English (en) machine translation (MT). The test suite includes 896 items spanning 12 linguistic categories, which are further subdivided into 36 linguistic phenomena. Together, the test suite covers lexical, syntactic, pragmatic, and discourse level linguistic phenoemna.
+This is the repo for [A Fine-Grained Linguistic Evaluation of Low-Resource Luxembourgish–English MT](https://aclanthology.org/2026.loresmt-1.12/). The paper introduces the Lux-MT-Test-Suite, enabling a semi-automatic evaluattion of Luxembourgish (lb) to English (en) machine translation (MT). The test suite includes 896 items spanning 12 linguistic categories, which are subdivided into 36 linguistic phenomena. Together, these phenomena cover lexical, syntactic, pragmatic, and discourse level features.
 
 
 ## 📖 Citation
